@@ -1,5 +1,3 @@
-# Power-BI-Store-Sales-Analysis
-
 # Power BI Store Sales Analysis
 
 ## Project Overview
