@@ -102,7 +102,6 @@ Displays the relationships between the fact table and supporting dimension table
 
 - Power BI report (`.pbix`)
 - Source dataset (`.xlsx`)
-- Dashboard screenshots (`images/`)
 
 ## Conclusion
 
